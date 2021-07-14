@@ -1,0 +1,12 @@
+    String plaka_no, Ad, Soyad, Metin, Tutar;
+            Console.Write("Plaka No'yu Giriniz: ");
+            plaka_no = Console.ReadLine();
+            Console.Write("Adınızı Giriniz: ");
+            Ad = Console.ReadLine();
+            Console.Write("Soyadınızı Giriniz: ");
+            Soyad = Console.ReadLine();
+            Console.WriteLine("Ödencek Ceza Tutarınız 1800TL'dir. Odemek için Kredi Kartı No Giriniz");
+            Metin = Console.ReadLine();
+            Console.WriteLine("Odeme Yaptıgınız İçin Teşekkürler");
+            Tutar = Console.ReadLine();
+            
